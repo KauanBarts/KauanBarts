@@ -1,9 +1,9 @@
-Olá, eu sou o Kauan!
+Olá, eu sou o Kauan! <br/>
 
---Desenvolvedor Java focado em back-end com Spring Boot.
---Arquitetura de microsserviços, Docker e Kubernetes.
---Explorando soluções em AWS para cloud computing.
---MySQL e PostgreSQL
+--Desenvolvedor Java focado em back-end com Spring Boot. <br/>
+--Arquitetura de microsserviços, Docker e Kubernetes. <br/>
+--Explorando soluções em AWS para cloud computing. <br/>
+--MySQL e PostgreSQL <br/>
 
 Sempre buscando aprender
 

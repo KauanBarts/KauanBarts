@@ -1,3 +1,12 @@
+Olá, eu sou o Kauan!
+
+--Desenvolvedor Java focado em back-end com Spring Boot.
+--Arquitetura de microsserviços, Docker e Kubernetes.
+--Explorando soluções em AWS para cloud computing.
+--MySQL e PostgreSQL
+
+Sempre buscando aprender
+
 <div align="center">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="100"/>
@@ -21,6 +30,6 @@
   </div>
 
 
-++📫 Onde me encontrar
+--📫 Onde me encontrar
 - 💼 [LinkedIn](www.linkedin.com/in/kauan-barts)  
 - 📧 Email: kauan.bartes@gmail.com

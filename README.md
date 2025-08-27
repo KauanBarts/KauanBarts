@@ -18,6 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
 
+  </div>
+
 
 ++📫 Onde me encontrar
 - 💼 [LinkedIn](www.linkedin.com/in/kauan-barts)  
